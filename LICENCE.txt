@@ -1,0 +1,16 @@
+"pycxsimulator.py"
+Realtime Simulation GUI for PyCX
+
+Developed by:
+Chun Wong
+email@chunwong.net
+
+Revised by:
+Hiroki Sayama
+sayama@binghamton.edu
+
+Copyright 2012 Chun Wong & Hiroki Sayama
+
+Simulation control & GUI extensions
+Copyright 2013 Przemyslaw Szufel & Bogumil Kaminski
+{pszufe, bkamins}@sgh.waw.pl
