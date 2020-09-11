@@ -1,6 +1,9 @@
 # Zombie apocalypse simulation via Moore neighborhood
 
-## demo
+## Introduction
+
+## Demo
+
 ### Senario 1
 <img src='Image/senario_1.gif' alt = 'senario1_demo'>
 
