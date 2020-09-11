@@ -23,6 +23,7 @@ To study this system we employed a [cellular automata](https://en.wikipedia.org/
 <p align="center">
     <img src='Image/senario_1.gif' alt = 'senario1_demo' height= 300px weight = 'auto' />
 </p>
+
 - Scienario 2: The antidote will be dropped to survivors one time in a specific area by the U.S. Air Force. From there the antidote will spread among the other survivors, preventing them from becoming zombies, as well as potentially curing the level one and two zombies. Previously mentioned, level 3 zombies can not be cured. 
 <p align="center">
     <img src='Image/senario_2.gif' alt = 'senario2_demo' height= 300px weight = 'auto' />
