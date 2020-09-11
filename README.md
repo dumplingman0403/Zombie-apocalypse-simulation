@@ -1,7 +1,7 @@
 # Zombie apocalypse simulation via Moore neighborhood
 
 ## Introduction
-### infections rules
+### Infections rules
 - 1. Infected people will turns into zombies with different levels Lv1, Lv2, Lv3. The higher level is, the lower probability will be of being able to cure them. The highest level, level 3, are considered incurable.
 - 2. Antidote can only be developed after a period of time (threshold).
 - 3. The person who has been injected the antidote will not be infected again (Immunity).
