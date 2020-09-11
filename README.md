@@ -1,6 +1,11 @@
 # Zombie apocalypse simulation via Moore neighborhood
 
+## demo
+### Senario 1
+<img src='Image/senario_1.gif' alt = 'senario1_demo'>
 
+### Senario 2
+<img src='Image/senario_2.gif' alt = 'senario2_demo'>
 
 ## How to run 
 
