@@ -33,3 +33,18 @@ Run Scenario 2
 python3 Scenario 2.py
 ```
 
+## Customize Your Simuation
+
+```python3
+L = 100       #Total field size (100 ---> 100x100)
+p = 0.9       #population density
+p11 = 0.05    #probability of transforming into zombie lv1
+p12 = 0.3     #probability of transforming into zombie lv2
+p13 = 0.5     #probability of transforming into zombie lv3
+p21 = 0.01    #probability of recovery rate of zombie lv1
+p22 = 0.005   #probability of recovery rate of zombie lv2
+p3 = 0.15     #probability of dropping rate about the antidote
+awareness = 3000   #Threshold of dropping the antidote
+r = 1         #Infection range of neighborhood
+```
+
