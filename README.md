@@ -1,16 +1,18 @@
 # Zombie apocalypse simulation via Moore neighborhood
 
 ## Introduction
-### Infections rules
+The goal of this project was to investigate potential scenarios in the event of a zombie virus outbreak using a theoretical cellular automata model. Our model considered a population distributed among a 100 x 100 cell grid and used a Moore neighborhood. The population of cells is divided into three classes: normal (uninfected and unvaccinated), immune, and infected (the zombies). The infected population is further divided into three sub-categories for a total of five possible states for any given cell. We looked at the effect of an antidote being released based on a threshold number of infected. We investigated two different scenarios for releasing an “antidote/vaccine”. Infection and cure rates are based on probability parameters. By varying the antidote probability we obtained results for when the zombies would “win” by overrunning the grid or alternatively for when the survivors would “win” by maintaining a foothold and containing the infected group. We concluded that scenario one was preferable because a lower antidote probability was required then in scenario two. 
+
+### Infections Rules
 - 1. Infected people will turns into zombies with different levels Lv1, Lv2, Lv3. The higher level is, the lower probability will be of being able to cure them. The highest level, level 3, are considered incurable.
 - 2. Antidote can only be developed after a period of time (threshold).
 - 3. The person who has been injected the antidote will not be infected again (Immunity).
 - 4. The antidote will be dropped to survivors at a random area by U.S Air Force.
 
 
-### Scienarios 
-- 1. The antidote will continue to drop to survivors randomly over the total uninfected area by the U.S Air Force.
-- 2. The antidote will be dropped to survivors one time in a specific area by the U.S. Air Force. From there the antidote will spread among the other survivors, preventing them from becoming zombies, as well as potentially curing the level one and two zombies. Previously mentioned, level 3 zombies can not be cured. 
+### Design Scienarios 
+- Scienario 1: The antidote will continue to drop to survivors randomly over the total uninfected area by the U.S Air Force.
+- Scienario 2: The antidote will be dropped to survivors one time in a specific area by the U.S. Air Force. From there the antidote will spread among the other survivors, preventing them from becoming zombies, as well as potentially curing the level one and two zombies. Previously mentioned, level 3 zombies can not be cured. 
 
 ## Demo
 
