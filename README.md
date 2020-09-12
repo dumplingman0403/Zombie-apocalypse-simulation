@@ -15,10 +15,10 @@ To study this system we employed a [cellular automata](https://en.wikipedia.org/
 
 
 ### Infections Rules
-- 1. Infected people will turns into zombies with different levels Lv1, Lv2, Lv3. The higher level is, the lower probability will be of being able to cure them. The highest level, level 3, are considered incurable.
-- 2. Antidote can only be developed after a period of time (threshold).
-- 3. The person who has been injected the antidote will not be infected again (Immunity).
-- 4. The antidote will be dropped to survivors at a random area by U.S Air Force.
+- Infected people will turns into zombies with different levels Lv1, Lv2, Lv3. The higher level is, the lower probability will be of being able to cure them. The highest level, level 3, are considered incurable.
+- Antidote can only be developed after a period of time (threshold).
+- The person who has been injected the antidote will not be infected again (Immunity).
+- The antidote will be dropped to survivors at a random area by U.S Air Force.
 
 
 ### Design Scienarios 
