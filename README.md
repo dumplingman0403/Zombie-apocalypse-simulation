@@ -2,8 +2,9 @@
 # Zombie apocalypse simulation via Moore neighborhood
 
 ## Introduction
+<p align = "justify">
 The goal of this project was to investigate potential scenarios in the event of a zombie virus outbreak using a theoretical cellular automata model. Our model considered a population distributed among a 100 x 100 cell grid and used a Moore neighborhood. The population of cells is divided into three classes: normal (uninfected and unvaccinated), immune, and infected (the zombies). The infected population is further divided into three sub-categories for a total of five possible states for any given cell. We looked at the effect of an antidote being released based on a threshold number of infected. We investigated two different scenarios for releasing an “antidote/vaccine”. Infection and cure rates are based on probability parameters. By varying the antidote probability we obtained results for when the zombies would “win” by overrunning the grid or alternatively for when the survivors would “win” by maintaining a foothold and containing the infected group. We concluded that scenario one was preferable because a lower antidote probability was required then in scenario two. 
-
+</p>
 ### Methodology - Moore Neighborhood
 
 To study this system we employed a [cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton) model to see how the virus might spread. Within the model we used a [Moore neighborhood](https://en.wikipedia.org/wiki/Moore_neighborhood), which is shown in below. We considered a set of rules defining the interaction between cells. The grey cell in the middle represents one of the normal people in our system. Once there is infected person in a cell around him, the normal person will become infected and turn into a zombie with severity levels defined by probabilities.
