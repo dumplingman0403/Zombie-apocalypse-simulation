@@ -66,7 +66,7 @@ r = 1         #Infection range of neighborhood
 ```
 ## Reference
 - [Sayama, H. (2015). Introduction to The Modeling and Analysis of Complex Systems. Geneseo, NY: Open SUNY Textbooks, Milne Library, State University of New York at Geneseo.](https://textbooks.opensuny.org/introduction-to-the-modeling-and-analysis-of-complex-systems/)
-
+- [PyCX](https://github.com/hsayama/PyCX)
 ## Authors
 [Chun Yu Wu](https://github.com/dumplingman0403)  
 Tung-Ying Lee  
