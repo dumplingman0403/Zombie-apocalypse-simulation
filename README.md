@@ -7,9 +7,9 @@ The goal of this project was to investigate potential scenarios in the event of 
 </p>
 
 ### Methodology - Moore Neighborhood
-<p align = "justify">
+
 To study this system we employed a [cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton) model to see how the virus might spread. Within the model we used a [Moore neighborhood](https://en.wikipedia.org/wiki/Moore_neighborhood), which is shown in below. We considered a set of rules defining the interaction between cells. The grey cell in the middle represents one of the normal people in our system. Once there is infected person in a cell around him, the normal person will become infected and turn into a zombie with severity levels defined by probabilities.
-</p>
+
 
 <img src="Image/moore1.png" height= 300px weight = 'auto' >  <img src="Image/moore2.png" height= 300px weight = 'auto'>
 
